@@ -1,0 +1,11 @@
+{
+  "name": "tinycrm-client",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "serve": "^14.2.6"
+  },
+  "scripts": {}
+}
